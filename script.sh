@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -x
+
 export API_PORT="8001"
 
 # admin-api service
